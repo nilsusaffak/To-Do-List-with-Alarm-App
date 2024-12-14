@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/loginscreen"
+        android:title="Login Screen"
+        android:orderInCategory="1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/newtask"
+        android:title="New Task"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+</menu>
+
+
